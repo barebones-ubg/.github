@@ -3,8 +3,8 @@
 </div>
 
 # BareBones UBG
-Home of Barebones UBG
+Home of the Barebones UBG site kit
 
 ## Projects As Listed Below:
-- Barebones DIY UBG site
-- Barebones Docs
+- Barebones UBG
+- Barebones UBG Docs
